@@ -1,0 +1,17 @@
+# Compiled output
+*.exe
+*.out
+lbms
+
+# Runtime data files
+data/*.dat
+data/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.cbp
+*.dev
+.vscode/
